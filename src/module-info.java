@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lilbenny
+ *
+ */
+module Thermometer {
+}
